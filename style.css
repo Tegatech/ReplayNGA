@@ -1,0 +1,28 @@
+
+
+#sbody
+{
+  margin-top: 60px;
+}
+
+.class
+{
+  margin-top: 20px;
+}
+
+#articlehead
+{
+ /* padding-left: 150px;
+  padding-right: 200px;*/
+   padding-left: 12%;
+  padding-right: 15%;
+}
+
+#article
+{
+  margin-top: 20px;
+  /*padding-right: 150px;
+  padding-left: 100px;*/
+   padding-left: 12%;
+  padding-right: 14%;
+}
